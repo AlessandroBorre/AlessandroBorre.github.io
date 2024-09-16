@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. CIMA Research Foundation  Via Armando Magliotto 2 Savona, SV 17100, IT. Mail: a.borre@hotmail.it, alessandro.borre@edu.unige.it, alessandro.borre@cimafoundation.org Telephone: +39 3342873799
+subtitle: "<a href='#'>Affiliations</a>. CIMA Research Foundation  Via Armando Magliotto 2 Savona, SV 17100, IT. Mail: a.borre@hotmail.it, alessandro.borre@edu.unige.it, alessandro.borre@cimafoundation.org Telephone: +39 3342873799"
 
 profile:
   align: right
